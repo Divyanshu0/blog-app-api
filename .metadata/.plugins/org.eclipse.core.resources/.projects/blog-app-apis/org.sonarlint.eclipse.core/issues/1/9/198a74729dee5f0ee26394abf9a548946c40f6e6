@@ -1,0 +1,17 @@
+
+g
+java:S2259g"BA "NullPointerException" could be thrown; "sort" is nullable here.(ïîå¯HšRMAJORZBUG
+a
+java:S2209g"5Change this instance-reference to a static reference.(ïîå¯HRMAJORZ
+CODE_SMELL
+^
+java:S1611q"2Remove the parentheses around the "post" parameter(ò£‡ÌHŸRMINORZ
+CODE_SMELL
+f
+java:S2209j"5Change this instance-reference to a static reference.(¡¬Ü³ıÿÿÿÿH RMAJORZ
+CODE_SMELL
+^
+java:S1611~"2Remove the parentheses around the "post" parameter(­ı¥îH¢RMINORZ
+CODE_SMELL
+l
+java:S2259j"BA "NullPointerException" could be thrown; "sort" is nullable here.(¡¬Ü³ıÿÿÿÿH£RMAJORZBUG

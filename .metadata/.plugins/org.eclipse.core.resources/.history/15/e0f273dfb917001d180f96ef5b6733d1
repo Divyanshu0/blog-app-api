@@ -1,0 +1,21 @@
+package com.self.blog.controllers;
+
+import java.util.Date;
+
+public class sd {
+
+	public static void main(String... args) {
+
+		long start1 = System.nanoTime();
+       Date needate = new Date();
+       setDate(needate);
+       long end1 = System.nanoTime();
+    		   System.out.println("Elapsed Time in nano seconds: "+ (end1-start1));
+			boolean v = false;      
+	}
+
+	private void setDate(Date needate) {
+		System.out.println("Done");
+		
+	}
+}

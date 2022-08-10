@@ -1,0 +1,6 @@
+
+w
+java:S2259"FA "NullPointerException" could be thrown; "fileName" is nullable here.(ª»«Íûÿÿÿÿ8íî÷¨0HûRMAJORZBUG
+
+java:S1488)"ZImmediately return this expression instead of assigning it to the temporary variable "is".(ŠÉæ8ˆóÆ¨0H…RMINORZ
+CODE_SMELL

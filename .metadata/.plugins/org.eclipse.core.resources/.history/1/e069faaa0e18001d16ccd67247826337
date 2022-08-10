@@ -1,0 +1,5 @@
+package com.self.blog.services.impl;
+
+public class FileServiceImpl {
+
+}

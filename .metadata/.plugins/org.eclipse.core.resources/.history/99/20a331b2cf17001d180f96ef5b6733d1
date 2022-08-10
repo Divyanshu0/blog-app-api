@@ -1,0 +1,34 @@
+package com.self.blog.controllers;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class sd {
+
+	public static void main(String... args) {
+
+		long start1 = System.nanoTime();
+	       Date needat = new Date();
+       SimpleDateFormat sd =  new SimpleDateFormat("dd/MM/yyyy");
+       String strDate= sd.format(needat);
+       setDate(strDate);
+       long end1 = System.nanoTime();
+	   System.out.println("Elapsed Time in nano seconds: "+ (end1-start1));
+       long start2 = System.nanoTime();
+       Date needate = new Date();
+       setDate(needate);
+       long end2 = System.nanoTime();
+    		   System.out.println("Elapsed Time in nano seconds: "+ (end2-start2));
+			boolean v = false;      
+	}
+
+	private static void setDate(String strDate) {
+		
+		System.out.println("Done");
+	}
+
+	private static void setDate(Date needate) {
+		System.out.println("Done");
+		
+	}
+}
